@@ -4,7 +4,8 @@ This project involves designing and simulating a 6T SRAM cell using CMOS technol
 
 **Schematic Diagram** :
 - **Transient Analysis of 6T SRAM Cell**
-<img width="2126" height="749" alt="netlist_6t" src="https://github.com/user-attachments/assets/38cf4903-e4ea-49b6-8081-006ecf052a81" />
+<img width="1896" height="711" alt="netlist_6t" src="https://github.com/user-attachments/assets/a323c4b6-af36-4d4a-8ed2-2f85f7cc87d5" />
+
 
 
 - **Static-noise margin analysis of 6T SRAM Cell**
