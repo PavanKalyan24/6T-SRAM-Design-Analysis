@@ -2,7 +2,7 @@
 This project involves designing and simulating a 6T SRAM cell using CMOS technology, including netlist creation, transient and static noise margin analysis, and verification of read/write stability through waveform plots. Key parameters like power, voltage, and robustness are optimized for reliable operation.
 
 
-**Schematic Diagram** :
+<u>**Schematic Diagram** :<u/>
 - **Transient Analysis of 6T SRAM Cell**
 <img width="2126" height="749" alt="netlist_6t" src="https://github.com/user-attachments/assets/38cf4903-e4ea-49b6-8081-006ecf052a81" />
 
