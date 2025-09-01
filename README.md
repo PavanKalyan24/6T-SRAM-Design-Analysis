@@ -12,7 +12,7 @@ Schematic Diagram :
 
 
 - Waveforms :
--Transient Analysis of 6T SRAM Cell:
+- Transient Analysis of 6T SRAM Cell:
 <img width="2879" height="1504" alt="6t" src="https://github.com/user-attachments/assets/b48b8c43-22ce-48ab-9ba6-59e2b1a92e0c" />
 
 
