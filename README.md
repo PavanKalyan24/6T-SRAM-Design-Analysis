@@ -12,7 +12,7 @@ This project involves designing and simulating a 6T SRAM cell using CMOS technol
 <img width="1971" height="992" alt="netlist_6t_snm" src="https://github.com/user-attachments/assets/b7feca77-3adb-4e9e-95fb-178a9a8e59d9" />
 
 
-- **Waveforms** :
+**Waveforms** :
 - **Transient Analysis of 6T SRAM Cell**:
 <img width="2879" height="1504" alt="6t" src="https://github.com/user-attachments/assets/b48b8c43-22ce-48ab-9ba6-59e2b1a92e0c" />
 
