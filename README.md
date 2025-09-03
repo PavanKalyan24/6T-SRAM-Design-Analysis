@@ -9,7 +9,8 @@ This project involves designing and simulating a 6T SRAM cell using CMOS technol
 
 
 - **Static-noise margin analysis of 6T SRAM Cell**
-<img width="1971" height="992" alt="netlist_6t_snm" src="https://github.com/user-attachments/assets/b7feca77-3adb-4e9e-95fb-178a9a8e59d9" />
+<img width="1976" height="1127" alt="image" src="https://github.com/user-attachments/assets/f31b08a4-9b75-4712-b8db-77e6fe3728bf" />
+
 
 
 **Waveforms** :
